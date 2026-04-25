@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Driver Vigilance Monitoring System
 
 This is a professional multi-file version of the driver fatigue prototype. It uses a camera feed, MediaPipe Face Mesh, Eye Aspect Ratio (EAR), PERCLOS, audible alerts, visual warnings, passenger escalation logic, and optional smart diagnostics.
