@@ -1,0 +1,56 @@
+{
+  "camera": {
+    "index": 0,
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "flip_horizontal": true
+  },
+  "eye": {
+    "open_ear_threshold": 0.21,
+    "closed_ear_threshold": 0.15,
+    "smoothing_window": 3,
+    "continuous_closed_seconds": 3.0
+  },
+  "perclos": {
+    "window_seconds": 60.0,
+    "mild_percent": 15.0,
+    "drowsy_percent": 30.0,
+    "critical_percent": 50.0,
+    "min_samples": 12,
+    "warmup_seconds": 0.0,
+    "recovery_open_seconds": 3.0
+  },
+  "temperature": {
+    "enabled": false,
+    "baseline_celsius": 30.0,
+    "high_heat_celsius": 40.0,
+    "max_ear_threshold_offset": 0.025,
+    "default_celsius": 38.0
+  },
+  "tracking": {
+    "enable_head_pose_check": false,
+    "enable_eye_obstruction_check": false,
+    "max_yaw_degrees": 45.0,
+    "max_pitch_degrees": 40.0,
+    "min_eye_texture_score": 0.18,
+    "attention_warning_seconds": 3.0,
+    "alert_on_attention_issue": false
+  },
+  "alerts": {
+    "enabled": true,
+    "cooldown_seconds": 2.0,
+    "passenger_escalation_seconds": 8.0,
+    "recovery_alarm_seconds": 4.0,
+    "minimum_sound_closed_seconds": 1.0
+  },
+  "ui": {
+    "window_name": "Driver Vigilance Monitoring System",
+    "show_landmarks": true,
+    "show_debug_values": true
+  },
+  "logging": {
+    "log_dir": "logs",
+    "level": "INFO"
+  }
+}

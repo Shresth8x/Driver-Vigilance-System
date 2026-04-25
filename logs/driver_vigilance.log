@@ -1,0 +1,241 @@
+2026-04-26 00:05:18,483 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 00:09:32,326 | INFO | dvs.camera | Camera released.
+2026-04-26 00:15:11,480 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 00:16:56,794 | INFO | dvs.camera | Camera released.
+2026-04-26 00:34:12,234 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 00:35:51,029 | INFO | dvs.camera | Camera released.
+2026-04-26 00:40:15,003 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 00:43:02,093 | INFO | dvs.app | Simulated temperature increased to 39.0 C
+2026-04-26 00:43:02,934 | INFO | dvs.app | Simulated temperature increased to 40.0 C
+2026-04-26 00:43:03,540 | INFO | dvs.app | Simulated temperature increased to 41.0 C
+2026-04-26 00:43:03,958 | INFO | dvs.app | Simulated temperature increased to 42.0 C
+2026-04-26 00:43:04,473 | INFO | dvs.app | Simulated temperature increased to 43.0 C
+2026-04-26 00:43:13,179 | INFO | dvs.app | Simulated temperature increased to 44.0 C
+2026-04-26 00:43:13,704 | INFO | dvs.app | Simulated temperature increased to 45.0 C
+2026-04-26 00:43:13,719 | INFO | dvs.app | Simulated temperature increased to 46.0 C
+2026-04-26 00:43:13,768 | INFO | dvs.app | Simulated temperature increased to 47.0 C
+2026-04-26 00:43:13,829 | INFO | dvs.app | Simulated temperature increased to 48.0 C
+2026-04-26 00:43:13,841 | INFO | dvs.app | Simulated temperature increased to 49.0 C
+2026-04-26 00:43:13,896 | INFO | dvs.app | Simulated temperature increased to 50.0 C
+2026-04-26 00:43:13,979 | INFO | dvs.app | Simulated temperature increased to 51.0 C
+2026-04-26 00:43:13,989 | INFO | dvs.app | Simulated temperature increased to 52.0 C
+2026-04-26 00:43:14,037 | INFO | dvs.app | Simulated temperature increased to 53.0 C
+2026-04-26 00:43:14,048 | INFO | dvs.app | Simulated temperature increased to 54.0 C
+2026-04-26 00:43:14,104 | INFO | dvs.app | Simulated temperature increased to 55.0 C
+2026-04-26 00:43:14,165 | INFO | dvs.app | Simulated temperature increased to 56.0 C
+2026-04-26 00:43:14,229 | INFO | dvs.app | Simulated temperature increased to 57.0 C
+2026-04-26 00:43:14,311 | INFO | dvs.app | Simulated temperature increased to 58.0 C
+2026-04-26 00:43:18,776 | INFO | dvs.app | Simulated temperature decreased to 57.0 C
+2026-04-26 00:43:19,263 | INFO | dvs.app | Simulated temperature decreased to 56.0 C
+2026-04-26 00:43:19,318 | INFO | dvs.app | Simulated temperature decreased to 55.0 C
+2026-04-26 00:43:19,332 | INFO | dvs.app | Simulated temperature decreased to 54.0 C
+2026-04-26 00:43:19,382 | INFO | dvs.app | Simulated temperature decreased to 53.0 C
+2026-04-26 00:43:19,447 | INFO | dvs.app | Simulated temperature decreased to 52.0 C
+2026-04-26 00:43:19,511 | INFO | dvs.app | Simulated temperature decreased to 51.0 C
+2026-04-26 00:43:19,592 | INFO | dvs.app | Simulated temperature decreased to 50.0 C
+2026-04-26 00:43:19,653 | INFO | dvs.app | Simulated temperature decreased to 49.0 C
+2026-04-26 00:43:19,718 | INFO | dvs.app | Simulated temperature decreased to 48.0 C
+2026-04-26 00:43:19,745 | INFO | dvs.app | Simulated temperature decreased to 47.0 C
+2026-04-26 00:43:19,779 | INFO | dvs.app | Simulated temperature decreased to 46.0 C
+2026-04-26 00:43:19,849 | INFO | dvs.app | Simulated temperature decreased to 45.0 C
+2026-04-26 00:43:19,911 | INFO | dvs.app | Simulated temperature decreased to 44.0 C
+2026-04-26 00:43:19,925 | INFO | dvs.app | Simulated temperature decreased to 43.0 C
+2026-04-26 00:43:19,992 | INFO | dvs.app | Simulated temperature decreased to 42.0 C
+2026-04-26 00:43:20,054 | INFO | dvs.app | Simulated temperature decreased to 41.0 C
+2026-04-26 00:43:20,118 | INFO | dvs.app | Simulated temperature decreased to 40.0 C
+2026-04-26 00:43:20,518 | INFO | dvs.app | Simulated temperature decreased to 39.0 C
+2026-04-26 00:43:20,814 | INFO | dvs.app | Simulated temperature decreased to 38.0 C
+2026-04-26 00:43:20,993 | INFO | dvs.app | Simulated temperature decreased to 37.0 C
+2026-04-26 00:43:21,491 | INFO | dvs.app | Simulated temperature decreased to 36.0 C
+2026-04-26 00:43:21,527 | INFO | dvs.app | Simulated temperature decreased to 35.0 C
+2026-04-26 00:43:21,553 | INFO | dvs.app | Simulated temperature decreased to 34.0 C
+2026-04-26 00:43:21,591 | INFO | dvs.app | Simulated temperature decreased to 33.0 C
+2026-04-26 00:43:21,615 | INFO | dvs.app | Simulated temperature decreased to 32.0 C
+2026-04-26 00:43:21,652 | INFO | dvs.app | Simulated temperature decreased to 31.0 C
+2026-04-26 00:43:21,679 | INFO | dvs.app | Simulated temperature decreased to 30.0 C
+2026-04-26 00:43:21,715 | INFO | dvs.app | Simulated temperature decreased to 29.0 C
+2026-04-26 00:43:21,782 | INFO | dvs.app | Simulated temperature decreased to 28.0 C
+2026-04-26 00:43:21,793 | INFO | dvs.app | Simulated temperature decreased to 27.0 C
+2026-04-26 00:43:21,859 | INFO | dvs.app | Simulated temperature decreased to 26.0 C
+2026-04-26 00:43:21,883 | INFO | dvs.app | Simulated temperature decreased to 25.0 C
+2026-04-26 00:43:21,924 | INFO | dvs.app | Simulated temperature decreased to 24.0 C
+2026-04-26 00:43:29,671 | INFO | dvs.app | Simulated temperature decreased to 23.0 C
+2026-04-26 00:43:30,163 | INFO | dvs.app | Simulated temperature decreased to 22.0 C
+2026-04-26 00:43:30,217 | INFO | dvs.app | Simulated temperature decreased to 21.0 C
+2026-04-26 00:43:30,280 | INFO | dvs.app | Simulated temperature decreased to 20.0 C
+2026-04-26 00:43:30,812 | INFO | dvs.app | Simulated temperature decreased to 19.0 C
+2026-04-26 00:43:31,222 | INFO | dvs.app | Simulated temperature increased to 20.0 C
+2026-04-26 00:43:32,276 | INFO | dvs.app | Simulated temperature increased to 21.0 C
+2026-04-26 00:43:32,553 | INFO | dvs.app | Simulated temperature increased to 22.0 C
+2026-04-26 00:45:02,653 | INFO | dvs.camera | Camera released.
+2026-04-26 00:45:11,238 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 00:45:19,810 | INFO | dvs.camera | Camera released.
+2026-04-26 01:00:44,771 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:00:57,483 | INFO | dvs.camera | Camera released.
+2026-04-26 01:01:00,546 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:01:05,384 | INFO | dvs.camera | Camera released.
+2026-04-26 01:07:09,481 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:07:16,432 | INFO | dvs.camera | Camera released.
+2026-04-26 01:10:45,762 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:10:51,940 | INFO | dvs.camera | Camera released.
+2026-04-26 01:28:31,623 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:29:17,802 | INFO | dvs.camera | Camera released.
+2026-04-26 01:32:21,305 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:34:31,738 | INFO | dvs.app | Simulated temperature increased to 39.0 C
+2026-04-26 01:34:32,254 | INFO | dvs.app | Simulated temperature increased to 40.0 C
+2026-04-26 01:34:32,314 | INFO | dvs.app | Simulated temperature increased to 41.0 C
+2026-04-26 01:34:32,335 | INFO | dvs.app | Simulated temperature increased to 42.0 C
+2026-04-26 01:34:32,379 | INFO | dvs.app | Simulated temperature increased to 43.0 C
+2026-04-26 01:34:32,397 | INFO | dvs.app | Simulated temperature increased to 44.0 C
+2026-04-26 01:34:32,444 | INFO | dvs.app | Simulated temperature increased to 45.0 C
+2026-04-26 01:34:32,457 | INFO | dvs.app | Simulated temperature increased to 46.0 C
+2026-04-26 01:34:32,509 | INFO | dvs.app | Simulated temperature increased to 47.0 C
+2026-04-26 01:34:32,522 | INFO | dvs.app | Simulated temperature increased to 48.0 C
+2026-04-26 01:34:32,572 | INFO | dvs.app | Simulated temperature increased to 49.0 C
+2026-04-26 01:34:32,586 | INFO | dvs.app | Simulated temperature increased to 50.0 C
+2026-04-26 01:34:32,654 | INFO | dvs.app | Simulated temperature increased to 51.0 C
+2026-04-26 01:34:32,668 | INFO | dvs.app | Simulated temperature increased to 52.0 C
+2026-04-26 01:34:32,716 | INFO | dvs.app | Simulated temperature increased to 53.0 C
+2026-04-26 01:34:32,730 | INFO | dvs.app | Simulated temperature increased to 54.0 C
+2026-04-26 01:34:32,780 | INFO | dvs.app | Simulated temperature increased to 55.0 C
+2026-04-26 01:34:32,793 | INFO | dvs.app | Simulated temperature increased to 56.0 C
+2026-04-26 01:34:32,846 | INFO | dvs.app | Simulated temperature increased to 57.0 C
+2026-04-26 01:34:32,913 | INFO | dvs.app | Simulated temperature increased to 58.0 C
+2026-04-26 01:34:32,990 | INFO | dvs.app | Simulated temperature increased to 59.0 C
+2026-04-26 01:34:33,005 | INFO | dvs.app | Simulated temperature increased to 60.0 C
+2026-04-26 01:34:33,051 | INFO | dvs.app | Simulated temperature increased to 61.0 C
+2026-04-26 01:34:33,065 | INFO | dvs.app | Simulated temperature increased to 62.0 C
+2026-04-26 01:34:33,118 | INFO | dvs.app | Simulated temperature increased to 63.0 C
+2026-04-26 01:34:33,148 | INFO | dvs.app | Simulated temperature increased to 64.0 C
+2026-04-26 01:34:33,180 | INFO | dvs.app | Simulated temperature increased to 65.0 C
+2026-04-26 01:34:33,246 | INFO | dvs.app | Simulated temperature increased to 66.0 C
+2026-04-26 01:34:33,313 | INFO | dvs.app | Simulated temperature increased to 67.0 C
+2026-04-26 01:34:33,326 | INFO | dvs.app | Simulated temperature increased to 68.0 C
+2026-04-26 01:34:33,390 | INFO | dvs.app | Simulated temperature increased to 69.0 C
+2026-04-26 01:34:33,453 | INFO | dvs.app | Simulated temperature increased to 70.0 C
+2026-04-26 01:34:33,519 | INFO | dvs.app | Simulated temperature increased to 71.0 C
+2026-04-26 01:34:33,538 | INFO | dvs.app | Simulated temperature increased to 72.0 C
+2026-04-26 01:34:33,580 | INFO | dvs.app | Simulated temperature increased to 73.0 C
+2026-04-26 01:34:33,601 | INFO | dvs.app | Simulated temperature increased to 74.0 C
+2026-04-26 01:34:38,270 | INFO | dvs.app | Simulated temperature decreased to 73.0 C
+2026-04-26 01:34:38,749 | INFO | dvs.app | Simulated temperature decreased to 72.0 C
+2026-04-26 01:34:38,795 | INFO | dvs.app | Simulated temperature decreased to 71.0 C
+2026-04-26 01:34:38,863 | INFO | dvs.app | Simulated temperature decreased to 70.0 C
+2026-04-26 01:34:38,890 | INFO | dvs.app | Simulated temperature decreased to 69.0 C
+2026-04-26 01:34:38,928 | INFO | dvs.app | Simulated temperature decreased to 68.0 C
+2026-04-26 01:34:38,991 | INFO | dvs.app | Simulated temperature decreased to 67.0 C
+2026-04-26 01:34:39,004 | INFO | dvs.app | Simulated temperature decreased to 66.0 C
+2026-04-26 01:34:39,070 | INFO | dvs.app | Simulated temperature decreased to 65.0 C
+2026-04-26 01:34:39,135 | INFO | dvs.app | Simulated temperature decreased to 64.0 C
+2026-04-26 01:34:39,156 | INFO | dvs.app | Simulated temperature decreased to 63.0 C
+2026-04-26 01:34:39,198 | INFO | dvs.app | Simulated temperature decreased to 62.0 C
+2026-04-26 01:34:39,261 | INFO | dvs.app | Simulated temperature decreased to 61.0 C
+2026-04-26 01:34:39,276 | INFO | dvs.app | Simulated temperature decreased to 60.0 C
+2026-04-26 01:34:39,326 | INFO | dvs.app | Simulated temperature decreased to 59.0 C
+2026-04-26 01:34:39,341 | INFO | dvs.app | Simulated temperature decreased to 58.0 C
+2026-04-26 01:34:39,404 | INFO | dvs.app | Simulated temperature decreased to 57.0 C
+2026-04-26 01:34:39,468 | INFO | dvs.app | Simulated temperature decreased to 56.0 C
+2026-04-26 01:34:39,499 | INFO | dvs.app | Simulated temperature decreased to 55.0 C
+2026-04-26 01:34:39,533 | INFO | dvs.app | Simulated temperature decreased to 54.0 C
+2026-04-26 01:34:39,546 | INFO | dvs.app | Simulated temperature decreased to 53.0 C
+2026-04-26 01:34:39,599 | INFO | dvs.app | Simulated temperature decreased to 52.0 C
+2026-04-26 01:34:39,612 | INFO | dvs.app | Simulated temperature decreased to 51.0 C
+2026-04-26 01:34:39,661 | INFO | dvs.app | Simulated temperature decreased to 50.0 C
+2026-04-26 01:34:39,677 | INFO | dvs.app | Simulated temperature decreased to 49.0 C
+2026-04-26 01:34:39,725 | INFO | dvs.app | Simulated temperature decreased to 48.0 C
+2026-04-26 01:34:39,740 | INFO | dvs.app | Simulated temperature decreased to 47.0 C
+2026-04-26 01:34:39,808 | INFO | dvs.app | Simulated temperature decreased to 46.0 C
+2026-04-26 01:34:39,823 | INFO | dvs.app | Simulated temperature decreased to 45.0 C
+2026-04-26 01:34:39,871 | INFO | dvs.app | Simulated temperature decreased to 44.0 C
+2026-04-26 01:34:39,886 | INFO | dvs.app | Simulated temperature decreased to 43.0 C
+2026-04-26 01:34:39,932 | INFO | dvs.app | Simulated temperature decreased to 42.0 C
+2026-04-26 01:34:39,945 | INFO | dvs.app | Simulated temperature decreased to 41.0 C
+2026-04-26 01:34:39,995 | INFO | dvs.app | Simulated temperature decreased to 40.0 C
+2026-04-26 01:34:40,009 | INFO | dvs.app | Simulated temperature decreased to 39.0 C
+2026-04-26 01:34:40,063 | INFO | dvs.app | Simulated temperature decreased to 38.0 C
+2026-04-26 01:34:40,142 | INFO | dvs.app | Simulated temperature decreased to 37.0 C
+2026-04-26 01:34:40,526 | INFO | dvs.app | Simulated temperature decreased to 36.0 C
+2026-04-26 01:34:40,881 | INFO | dvs.app | Simulated temperature decreased to 35.0 C
+2026-04-26 01:34:41,133 | INFO | dvs.app | Simulated temperature decreased to 34.0 C
+2026-04-26 01:34:41,619 | INFO | dvs.app | Simulated temperature decreased to 33.0 C
+2026-04-26 01:34:41,674 | INFO | dvs.app | Simulated temperature decreased to 32.0 C
+2026-04-26 01:34:41,741 | INFO | dvs.app | Simulated temperature decreased to 31.0 C
+2026-04-26 01:34:41,807 | INFO | dvs.app | Simulated temperature decreased to 30.0 C
+2026-04-26 01:34:41,838 | INFO | dvs.app | Simulated temperature decreased to 29.0 C
+2026-04-26 01:34:41,871 | INFO | dvs.app | Simulated temperature decreased to 28.0 C
+2026-04-26 01:34:41,885 | INFO | dvs.app | Simulated temperature decreased to 27.0 C
+2026-04-26 01:34:41,933 | INFO | dvs.app | Simulated temperature decreased to 26.0 C
+2026-04-26 01:34:41,946 | INFO | dvs.app | Simulated temperature decreased to 25.0 C
+2026-04-26 01:34:41,997 | INFO | dvs.app | Simulated temperature decreased to 24.0 C
+2026-04-26 01:34:42,010 | INFO | dvs.app | Simulated temperature decreased to 23.0 C
+2026-04-26 01:34:42,041 | INFO | dvs.app | Simulated temperature decreased to 22.0 C
+2026-04-26 01:34:42,080 | INFO | dvs.app | Simulated temperature decreased to 21.0 C
+2026-04-26 01:34:42,104 | INFO | dvs.app | Simulated temperature decreased to 20.0 C
+2026-04-26 01:34:42,141 | INFO | dvs.app | Simulated temperature decreased to 19.0 C
+2026-04-26 01:34:46,895 | INFO | dvs.app | Simulated temperature increased to 20.0 C
+2026-04-26 01:34:47,390 | INFO | dvs.app | Simulated temperature increased to 21.0 C
+2026-04-26 01:34:47,424 | INFO | dvs.app | Simulated temperature increased to 22.0 C
+2026-04-26 01:34:47,487 | INFO | dvs.app | Simulated temperature increased to 23.0 C
+2026-04-26 01:34:47,550 | INFO | dvs.app | Simulated temperature increased to 24.0 C
+2026-04-26 01:34:47,616 | INFO | dvs.app | Simulated temperature increased to 25.0 C
+2026-04-26 01:34:47,629 | INFO | dvs.app | Simulated temperature increased to 26.0 C
+2026-04-26 01:34:47,695 | INFO | dvs.app | Simulated temperature increased to 27.0 C
+2026-04-26 01:34:47,758 | INFO | dvs.app | Simulated temperature increased to 28.0 C
+2026-04-26 01:34:48,238 | INFO | dvs.app | Simulated temperature increased to 29.0 C
+2026-04-26 01:34:48,577 | INFO | dvs.app | Simulated temperature increased to 30.0 C
+2026-04-26 01:34:48,832 | INFO | dvs.app | Simulated temperature increased to 31.0 C
+2026-04-26 01:34:49,232 | INFO | dvs.app | Simulated temperature decreased to 30.0 C
+2026-04-26 01:34:49,418 | INFO | dvs.app | Simulated temperature decreased to 29.0 C
+2026-04-26 01:34:49,588 | INFO | dvs.app | Simulated temperature decreased to 28.0 C
+2026-04-26 01:35:36,596 | INFO | dvs.camera | Camera released.
+2026-04-26 01:35:39,859 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:35:51,312 | INFO | dvs.camera | Camera released.
+2026-04-26 01:42:49,582 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:44:38,801 | INFO | dvs.camera | Camera released.
+2026-04-26 01:45:07,237 | INFO | dvs.camera | Camera opened: index=0
+2026-04-26 01:47:52,905 | INFO | dvs.app | Simulated temperature increased to 39.0 C
+2026-04-26 01:47:53,094 | INFO | dvs.app | Simulated temperature increased to 40.0 C
+2026-04-26 01:47:53,463 | INFO | dvs.app | Simulated temperature increased to 41.0 C
+2026-04-26 01:47:53,624 | INFO | dvs.app | Simulated temperature increased to 42.0 C
+2026-04-26 01:47:53,798 | INFO | dvs.app | Simulated temperature increased to 43.0 C
+2026-04-26 01:47:53,975 | INFO | dvs.app | Simulated temperature increased to 44.0 C
+2026-04-26 01:47:54,109 | INFO | dvs.app | Simulated temperature increased to 45.0 C
+2026-04-26 01:47:58,596 | INFO | dvs.app | Simulated temperature decreased to 44.0 C
+2026-04-26 01:47:58,791 | INFO | dvs.app | Simulated temperature decreased to 43.0 C
+2026-04-26 01:47:58,934 | INFO | dvs.app | Simulated temperature decreased to 42.0 C
+2026-04-26 01:47:59,095 | INFO | dvs.app | Simulated temperature decreased to 41.0 C
+2026-04-26 01:47:59,605 | INFO | dvs.app | Simulated temperature decreased to 40.0 C
+2026-04-26 01:47:59,622 | INFO | dvs.app | Simulated temperature decreased to 39.0 C
+2026-04-26 01:47:59,669 | INFO | dvs.app | Simulated temperature decreased to 38.0 C
+2026-04-26 01:47:59,701 | INFO | dvs.app | Simulated temperature decreased to 37.0 C
+2026-04-26 01:47:59,735 | INFO | dvs.app | Simulated temperature decreased to 36.0 C
+2026-04-26 01:47:59,765 | INFO | dvs.app | Simulated temperature decreased to 35.0 C
+2026-04-26 01:47:59,799 | INFO | dvs.app | Simulated temperature decreased to 34.0 C
+2026-04-26 01:47:59,829 | INFO | dvs.app | Simulated temperature decreased to 33.0 C
+2026-04-26 01:47:59,861 | INFO | dvs.app | Simulated temperature decreased to 32.0 C
+2026-04-26 01:47:59,895 | INFO | dvs.app | Simulated temperature decreased to 31.0 C
+2026-04-26 01:47:59,925 | INFO | dvs.app | Simulated temperature decreased to 30.0 C
+2026-04-26 01:47:59,956 | INFO | dvs.app | Simulated temperature decreased to 29.0 C
+2026-04-26 01:47:59,991 | INFO | dvs.app | Simulated temperature decreased to 28.0 C
+2026-04-26 01:48:00,037 | INFO | dvs.app | Simulated temperature decreased to 27.0 C
+2026-04-26 01:48:00,068 | INFO | dvs.app | Simulated temperature decreased to 26.0 C
+2026-04-26 01:48:00,102 | INFO | dvs.app | Simulated temperature decreased to 25.0 C
+2026-04-26 01:48:00,437 | INFO | dvs.app | Simulated temperature decreased to 24.0 C
+2026-04-26 01:48:00,630 | INFO | dvs.app | Simulated temperature decreased to 23.0 C
+2026-04-26 01:48:00,935 | INFO | dvs.app | Simulated temperature increased to 24.0 C
+2026-04-26 01:48:01,174 | INFO | dvs.app | Simulated temperature increased to 25.0 C
+2026-04-26 01:48:01,397 | INFO | dvs.app | Simulated temperature increased to 26.0 C
+2026-04-26 01:48:01,767 | INFO | dvs.app | Simulated temperature increased to 27.0 C
+2026-04-26 01:48:02,247 | INFO | dvs.app | Simulated temperature increased to 28.0 C
+2026-04-26 01:48:02,437 | INFO | dvs.app | Simulated temperature increased to 29.0 C
+2026-04-26 01:48:02,615 | INFO | dvs.app | Simulated temperature increased to 30.0 C
+2026-04-26 01:48:02,847 | INFO | dvs.app | Simulated temperature increased to 31.0 C
+2026-04-26 01:48:03,077 | INFO | dvs.app | Simulated temperature increased to 32.0 C
+2026-04-26 01:48:03,352 | INFO | dvs.app | Simulated temperature increased to 33.0 C
+2026-04-26 01:48:03,559 | INFO | dvs.app | Simulated temperature increased to 34.0 C
+2026-04-26 01:48:03,701 | INFO | dvs.app | Simulated temperature increased to 35.0 C
+2026-04-26 01:48:03,923 | INFO | dvs.app | Simulated temperature increased to 36.0 C
+2026-04-26 01:48:04,117 | INFO | dvs.app | Simulated temperature increased to 37.0 C
+2026-04-26 01:48:04,295 | INFO | dvs.app | Simulated temperature increased to 38.0 C
+2026-04-26 01:48:04,498 | INFO | dvs.app | Simulated temperature increased to 39.0 C
+2026-04-26 01:48:09,292 | INFO | dvs.camera | Camera released.
