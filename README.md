@@ -49,7 +49,7 @@ driver_vigilance_system/
 
 ## Setup on Windows
 
-Open a terminal inside this folder:
+Open a terminal inside this folder:-
 
 ```powershell
 cd C:\Users\Shresth\Documents\Codex\2026-04-25\files-mentioned-by-the-user-complete\driver_vigilance_system
